@@ -6,8 +6,9 @@ Dans le cadre de ce projet, nous avons exploré les fonctionnalités de MapGL po
 La première étape consistait à créer un globe 3D en utilisant MapGL. MapGL est une bibliothèque JavaScript puissante qui permet de rendre des cartes en 3D avec une performance optimisée. Pour initialiser le globe, nous avons configuré les paramètres de base tels que le conteneur HTML, le style de la carte et les coordonnées initiales.
 
 # Marqueurs (Markers)
-- Utilisation des marqueurs pour indiquer des points d'intérêt sur la carte.
-- Personnalisation des marqueurs en termes de couleur et de taille.
+- Fonctionnalité: Les marqueurs permettent d'ajouter des points d'intérêt spécifiques sur la carte.
+- Personnalisation: Chaque marqueur peut être personnalisé en termes de couleur, taille et icône pour mieux représenter les données.
+- Utilisation: Les marqueurs sont utilisés pour indiquer des emplacements importants et peuvent afficher des informations supplémentaires lorsqu'ils sont cliqués ou survolés.
 
 # Caméra
 
