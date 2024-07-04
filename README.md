@@ -13,3 +13,6 @@ La première étape consistait à créer un globe 3D en utilisant MapGL. MapGL e
 # Caméra
 
 - Utilisation de la caméra de MapGL pour centrer le point de référence et ajuster la vue.
+- Fonctionnalité: Permet de manipuler la vue de la carte.
+- Centrage: Ajustement de la caméra pour centrer sur des points de référence spécifiques.
+- Vue Personnalisée: Modification des paramètres de vue, tels que le zoom, l'angle et l'orientation, pour offrir une perspective optimale.
