@@ -8,3 +8,7 @@ La première étape consistait à créer un globe 3D en utilisant MapGL. MapGL e
 # Marqueurs (Markers)
 - Utilisation des marqueurs pour indiquer des points d'intérêt sur la carte.
 - Personnalisation des marqueurs en termes de couleur et de taille.
+
+# Caméra
+
+- Utilisation de la caméra de MapGL pour centrer le point de référence et ajuster la vue.
