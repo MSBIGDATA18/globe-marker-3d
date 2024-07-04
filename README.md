@@ -1,5 +1,7 @@
 # Creation d'un globe standard-3D avec MAPGL 
-Dans le cadre de ce projet, nous avons exploré les fonctionnalités de MapGL pour la création d'un globe 3D interactif. L'objectif principal était de comprendre et d'implémenter diverses caractéristiques offertes par cette bibliothèque afin de visualiser des données géospatiales de manière dynamique et immersive
+Dans le cadre de ce projet, nous avons exploré les fonctionnalités de MapGL pour la création d'un globe 3D interactif. L'objectif principal était de comprendre et d'implémenter diverses caractéristiques offertes par cette bibliothèque afin de visualiser des données géospatiales de manière dynamique et immersive.
+
+L'objectif est de créer un globe avec des marqueurs représentant différents quartiers emblématiques de Paris.
 
 # Creation du globe 3D - Exploration des fonctionnalités de MapGL pour créer un globe 3D interactif.
 
